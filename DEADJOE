@@ -1,0 +1,24 @@
+
+*** These modified files were found in JOE when it aborted on Mon Jul 29 23:07:30 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/phunglearnGit/.git/COMMIT_EDITMSG
+
+*** File '/root/phunglearnGit/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@sentry-tel4vn.novalocal>
+#
+# On branch debug
+# Changes to be committed:
+#	modified:   file1.txt
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
