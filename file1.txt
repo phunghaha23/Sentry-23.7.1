@@ -1,2 +1,3 @@
 Noi dung 1
 - Lệnh git checkout, git branch
+- Sửa lỗi nha
